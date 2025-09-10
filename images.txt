@@ -4,10 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 busybox
-cubefs/cfs-server:v3.3.0
-cubefs/cfs-client:v3.3.0
-cnych/cubefs-cfs-csi-driver:3.2.0.150.0
-cnych/csi-provisioner:v2.2.2
-cnych/csi-attacher:v3.4.0
-cnych/csi-resizer:v1.3.0
-cnych/csi-node-driver-registrar:v2.5.0
+cubefs/cfs-server:v3.3.2
+cubefs/cfs-client:v3.3.2
+cubefs/blobstore:v3.3.2
+cubefs/cfs-csi-driver:v3.3.2
