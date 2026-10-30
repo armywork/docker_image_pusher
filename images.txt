@@ -8,3 +8,4 @@ cubefs/cfs-server:v3.3.2
 cubefs/cfs-client:v3.3.2
 cubefs/blobstore:v3.3.2
 cubefs/cfs-csi-driver:v3.3.2
+nicolaka/netshoot:latest
